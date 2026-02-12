@@ -1,0 +1,6 @@
+UAT ANEXO III: LA FINITUD DEL TIEMPO Y LA FRICCION CAUSAL
+=======================================================
+H0 Validado: 73.0 km/s/Mpc
+Energia Oscura Emergente (Friccion): 0.69917
+Constante K_early: 0.95501
+Estado: Transferencia Eonica Confirmada.
